@@ -1,0 +1,6 @@
+{
+  "name": "xon",
+  "description": "Aplikasi pencatatan pemasukan dan pengeluaran keuangan pribadi yang cerdas, rapi, dan komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
